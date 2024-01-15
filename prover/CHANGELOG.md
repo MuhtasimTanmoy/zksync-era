@@ -1,5 +1,17 @@
 # Changelog
 
+## [10.2.0](https://github.com/matter-labs/zksync-era/compare/prover-v10.1.0...prover-v10.2.0) (2024-01-15)
+
+
+### Features
+
+* **state-keeper:** circuits seal criterion ([#729](https://github.com/matter-labs/zksync-era/issues/729)) ([c4a86bb](https://github.com/matter-labs/zksync-era/commit/c4a86bbbc5697b5391a517299bbd7a5e882a7314))
+
+
+### Bug Fixes
+
+* address issue with spellchecker not checking against prover workspace ([#855](https://github.com/matter-labs/zksync-era/issues/855)) ([4f55926](https://github.com/matter-labs/zksync-era/commit/4f55926f48aaec3f43322594626148af0a0358dd))
+
 ## [10.1.0](https://github.com/matter-labs/zksync-era/compare/prover-v10.0.2...prover-v10.1.0) (2024-01-05)
 
 
